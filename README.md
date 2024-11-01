@@ -1,4 +1,3 @@
-```markdown
 # Floating Ribbon Util Azul
 
 [![pub package](https://img.shields.io/badge/pub-v1.0.0-blue)](https://pub.dev/packages/floating_ribbon_util_azul) [![Build Status](https://mouadzizi.com)](https://mouadzizi.com) [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/azulmouad/floating_ribbon_util_azul/blob/main/LICENSE)
@@ -13,10 +12,10 @@ Floating Ribbon Util Azul is an updated Flutter package for creating floating ri
 
 To include this package in your project, add the following line to your `pubspec.yaml` file:
 
-```yaml
+
 dependencies:
   floating_ribbon_util_azul: any
-```
+
 
 ## How To Use
 
