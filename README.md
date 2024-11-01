@@ -1,7 +1,7 @@
 ```markdown
 # Floating Ribbon Util Azul
 
-[![pub package](https://img.shields.io/badge/pub-v1.0.0-blue)](https://pub.dev/packages/floating_ribbon_util_azul) [![Build Status](https://travis-ci.org/101Loop/Floating-Ribbon.svg?branch=master)](https://travis-ci.org/101Loop/Floating-Ribbon) [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/101Loop/Floating-Ribbon/blob/master/LICENSE)
+[![pub package](https://img.shields.io/badge/pub-v1.0.0-blue)](https://pub.dev/packages/floating_ribbon_util_azul) [![Build Status](https://mouadzizi.com)](https://mouadzizi.com) [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/azulmouad/floating_ribbon_util_azul/blob/main/LICENSE)
 
 Floating Ribbon Util Azul is an updated Flutter package for creating floating ribbons on images. This version is a copy of the previous package, now enhanced with updates and fixes, ensuring compatibility with the latest Flutter versions.
 
